@@ -1,0 +1,8 @@
+D:\Mphasis\day2\DateTime\DateTime\bin\Debug\DateTime.exe.config
+D:\Mphasis\day2\DateTime\DateTime\bin\Debug\DateTime.exe
+D:\Mphasis\day2\DateTime\DateTime\bin\Debug\DateTime.pdb
+D:\Mphasis\day2\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\Mphasis\day2\DateTime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\day2\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\Mphasis\day2\DateTime\DateTime\obj\Debug\DateTime.exe
+D:\Mphasis\day2\DateTime\DateTime\obj\Debug\DateTime.pdb
